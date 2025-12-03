@@ -107,7 +107,7 @@ function App() {
               type="text"
               value={newTask}
               onChange={(e) => setNewTask(e.target.value)}
-              placeholder="Adicione uma nova tarefa..."
+              placeholder="Add anew task..."
               className="grow p-3 bg-zinc-700 text-white"
               onKeyDown={(e) => e.key === "Enter" && addNewTask()}
             />
