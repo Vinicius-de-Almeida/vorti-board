@@ -133,7 +133,7 @@ function App() {
             </button>
           </div>
 
-          <div className="flex gap-6 overflow-x-auto pb-6 w-full justify-center">
+          <div className="flex gap-6 overflow-x-auto pb-6 w-full justify-start md:justify-center px-4">
             {Object.keys(columns).map((columnId) => (
               <div
                 key={columnId}
