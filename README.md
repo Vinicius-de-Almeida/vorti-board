@@ -2,6 +2,8 @@
 
 bespoke internal workflow management tool developed for the technology consultancy "Vorti Digital."
 
+<img src="src/assets/print.png" alt="Logo do Projeto" width="700">
+
 ## ✨ Key Technical Highlights
 
 - **React Architecture:** Built with functional components and **React Hooks** for efficient, modular state handling and scalability.
