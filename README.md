@@ -1,6 +1,6 @@
 # 🚀 Vorti Board
 
-bespoke internal workflow management tool developed for the technology consultancy "Vorti Digital."
+A bespoke internal workflow management tool (to do list) developed for the technology consultancy Vorti Digital.
 
 <img src="src/assets/print.png" alt="Logo do Projeto" width="700">
 
