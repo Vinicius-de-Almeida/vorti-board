@@ -1,6 +1,6 @@
 # 🚀 Vorti Board
 
-A bespoke internal workflow management tool (to do list) developed for the technology consultancy Vorti Digital.
+Development of an internal workflow management tool for Vorti, built with React and Tailwind CSS. The system allows users to organize tasks, track progress, and optimize internal processes, providing a modern, responsive, and easy-to-use interface.
 
 <img src="src/assets/print.png" alt="Logo do Projeto" width="700">
 
